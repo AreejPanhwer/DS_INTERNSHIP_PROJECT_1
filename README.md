@@ -1,32 +1,45 @@
 # DS_INTERNSHIP_PROJECT_1
-Project 01: Data Cleaning, EDA, and KNN Model Training Dive into hands-on experience with messy datasets! This project covers data cleaning, exploratory data analysis (EDA), outlier detection, and training a KNN model, with performance evaluated through manual splitting and cross-validation. Check out our detailed findings and visualizations!
+
+Project 01: 
+
+Data Cleaning, EDA, and KNN Model Training Dive into hands-on experience with messy datasets! This project covers data cleaning, exploratory data analysis (EDA), outlier detection, and training a KNN model, with performance evaluated through manual splitting and cross-validation. Check out our detailed findings and visualizations!
+
 Project 01 
+
 The goal of this project is to provide you with hands-on experience in handling 
 messy datasets. You will clean the data, perform exploratory data analysis 
 (EDA), detect and remove outliers, manually split the data, and train a K-
 Nearest Neighbors (KNN) model. Finally, you will evaluate the model using both 
 manual splitting and cross-validation and compare the results  and write 
 summary in word file with proper results screenshots. 
-Requirements 
+
+# Requirements 
 Dataset 
+
 Loan-Approval-Prediction-Dataset 
 (https://www.kaggle.com/datasets/architsharma01/loan-approval-prediction-
 dataset) 
  
 Project Steps 
-Data Cleaning 
+
+Data Cleaning
+
 • Load the dataset into a Pandas DataFrame. 
 • Identify and handle missing values: 
+
 o Use appropriate strategies such as mean/median imputation or 
 forward/backward fill. 
+
 o Document your chosen strategies. 
 • Correct data types and standardize formats. 
 • Address any inconsistent or erroneous data entries. 
 Exploratory Data Analysis (EDA) 
 • Perform EDA to understand the dataset 
+
 o Generate descriptive statistics. 
 o Create visualizations such as histograms, bar charts, box plots, and 
 correlation matrices. 
+
 • Document your findings and key patterns. 
 Outlier Detection and Removal 
 Data Science  Project-1 
